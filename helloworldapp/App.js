@@ -1,0 +1,24 @@
+import React from 'react'
+
+import {
+  View,//like DIV in Web
+  Text,
+  SafeAreaView
+} from 'react-native'
+
+function App(){
+
+  return(
+
+  
+  <View>
+    <Text>Hello World !</Text>
+    <Text>Hello World !</Text>
+    <Text>Hello World !</Text>
+    <Text>Hello World !</Text>
+    <Text>Hello World !</Text>
+  </View>
+  );
+}
+
+export default App;
